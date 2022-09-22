@@ -1,0 +1,20 @@
+{
+	"contenidoStr": "{\n  \"name\": \"tp2-entregable\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"ms.js\",\n  \"scripts\": {\n    \"watch\": \"nodemon ms.js\",\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"nodemon\": \"^2.0.20\"\n  }\n}\n",
+	"contenidoObj": {
+		"name": "tp2-entregable",
+		"version": "1.0.0",
+		"description": "",
+		"main": "ms.js",
+		"scripts": {
+			"watch": "nodemon ms.js",
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"keywords": [],
+		"author": "",
+		"license": "ISC",
+		"dependencies": {
+			"nodemon": "^2.0.20"
+		}
+	},
+	"size": 305
+}
